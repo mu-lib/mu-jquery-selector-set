@@ -1,0 +1,23 @@
+{
+  "name": "jquery-mu-selector-set",
+  "version": "0.0.0",
+  "authors": [
+    "Eyal Arubas <eyalarubas@gmail.com>"
+  ],
+  "main": "main.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8"
+  }
+}
